@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(144, 15, 173);
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+    color: chocolate;
+}
+h2{
+    font-size: 50px;
+    text-align: center;
+    color: lime;
+    border: 2px black solid;
+    background-color: blueviolet;
+    border-radius: 30px;
+    width: 500px;
+    margin-left: 36%;
+}
+a{
+    width: 500px;
+    text-decoration: none;
+}
